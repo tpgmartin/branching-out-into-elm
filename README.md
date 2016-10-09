@@ -10,6 +10,20 @@ But why *Elm*? You could quite rightly argue that sticking to a JavaScript libra
 
 ## How this Book is Structured
 
-This book can be read it two ways, either in order or by topic. The book does not assume any familiarity with either Elm or functional programming, but does assume the reader is reasonably comfortable with the JavaScript language and related topics (see above). 
+The book does not assume any familiarity with either Elm or functional programming, but does assume the reader is reasonably comfortable with the JavaScript language and related topics (see above). 
 
-The beauty of Elm, is that it is very beginner friendly, you are only exposed to as much of the inner workings as you need. And I will follow this cue. Key functional programming will be introduced as and when you need them.
+This book will be structured around a project we will develop together.
+
+The beauty of Elm, is that it is very beginner friendly, you are only exposed to as much of the inner workings as you need. And I will follow this cue. Key functional programming will be introduced as and when you need them. 
+
+This book can be read it two ways, either in order or by topic. 
+
+## Resources
+
+This book is [host on GitBook](https://tpgmartin.gitbooks.io/branching-out-into-elm/content/), and suggestions and improvements are always appreciated.
+
+The source code for this book are hosted on GitHub. (Coming soon)
+
+You can reach out to me either through [GitBook](https://www.gitbook.com/@tpgmartin), [GitHub](https://github.com/tpgmartin) or [twitter](https://twitter.com/tpgmartin).
+
+With all that said, let's get to it!
