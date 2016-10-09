@@ -11,4 +11,5 @@ In this section, we will cover
 * Currying
 * Elm functions
 * Elm types
+* Functors
 * The Elm architecture
