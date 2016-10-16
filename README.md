@@ -22,7 +22,7 @@ This book can be read it two ways, either in order or by topic.
 
 This book is [host on GitBook](https://tpgmartin.gitbooks.io/branching-out-into-elm/content/), and suggestions and improvements are always appreciated.
 
-The source code for this book are hosted on GitHub. (Coming soon)
+The source code for this book are hosted on [GitHub](https://github.com/tpgmartin/branching-out-into-elm).
 
 You can reach out to me either through [GitBook](https://www.gitbook.com/@tpgmartin), [GitHub](https://github.com/tpgmartin) or [twitter](https://twitter.com/tpgmartin).
 
