@@ -26,4 +26,6 @@ These three components communicate in a unidirectional manner, as previously dis
 
 This is such a common pattern, that it is strongly advised to use [starter skeleton](https://github.com/evancz/elm-architecture-tutorial/) for any new project.
 
+For larger apps, the modular path that Elm guides us down via the Elm architecture and, more generally, good functional programming principles gives us a maintainable app for free. We needn't worry about anything else, as <Get citation from podcast>
+
 ## Summary
