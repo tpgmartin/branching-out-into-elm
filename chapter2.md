@@ -18,7 +18,9 @@ In this section, we will cover
 
 The Elm Architecture refers to a design pattern common to Elm apps, which has been heavily emphasised as of the 0.17 release. This pattern is to split code into the Model, Update, and View functions, and Action types. The Elm Architecture is also referred to as the "Model View Update" for this reason.
 
-Peculiar to this pattern is the universal composition of each function and type specification: Views can be composed of nested views, Models of nested models etc. As a consequence, Elm components or UI element must consistently posses Model (with an initial Model), View, Update functions, and an Action type.
+Peculiar to this pattern is the universal composition of each function and type mentioned specification: Views can be composed of nested views, Models of nested models etc. As a consequence, Elm components or UI element must consistently posses Model (with an initial Model), View, Update functions, and an Action type.
+
+(Add diagram here)
 
 These three components communicate in a unidirectional manner, as previously discussed.
 
