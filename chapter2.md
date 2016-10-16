@@ -8,11 +8,25 @@ In this section, we will cover
 * Elm tooling
 * Elm syntax
 * Modules
-* Currying
 * Elm functions
+* Currying
+* Composition
 * Elm types
 * Functors
 * The Elm architecture
+
+## Elm Functions
+
+At long last, we get to look at Elm functions! Elm supports prefix and infix functions. In either case, the syntax is very clean and minimalist. For instance a simple add function can be written as,
+
+```
+add a b =
+  a + b
+```
+
+where, the function name is at the top left, the parameters follow in a space separated by spaces. The beginning of the function body is indicated with "=" followed by the expression to be returned. No explicit return statement is required.
+
+
 
 ## The Elm Architecture
 
