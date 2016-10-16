@@ -12,6 +12,8 @@ How to make the state exhaustive? This is where "immutability" comes in. We want
 
 ## Thinking in Functions
 
+We've discussed the why in relation to functions, but not the what - don't worry the how will come later.
 
+Functions are absolutely central to functional programming, if the name wasn't enough of a tip off. Just as much as the mnemonic "everything is an object" is often used in object orientated programming, I'd suggest "everything is a function" to be an apt substitute for functional programming. What does this mean in practice? Instead of creating objects and manipulating their properties, we want functions that act on other functions. 
 
 ## Chapter in Review
