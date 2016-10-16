@@ -10,4 +10,8 @@ How do we make the state precisely reproducible? We need to talk about the terms
 
 How to make the state exhaustive? This is where "immutability" comes in. We want the entities that are used within the app to be immutable. Instead, when a function is applied to an input, we copy it so we are left with the original copy untouched, and an updated copy with the function applied. Coming full circle, this combination of pure functions and immutable entities ensures that state at any point in time is both exhaustive and reproducible: the state is precisely the result of an immutable past.
 
+## Thinking in Functions
+
+
+
 ## Chapter in Review
